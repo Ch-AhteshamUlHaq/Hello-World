@@ -1,5 +1,6 @@
 Hello Microverse
-Created the repository.Created the branch and then creatd the folder with the name .github and then created a subfolder named workflows. Created the linters file copy and paste the code there, after that i 
+
+This is my first project.
 
 Built With
 Major languages
