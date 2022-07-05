@@ -1,11 +1,13 @@
-Hello Microverse
+Hello Microverse 
 
-This is my first project.
+Hi, That's first project. I really enjoyed that!
 
 Built With
 Major languages
+HTML & CSS
 Frameworks
 Technologies used
+Linters, HTML, and CSS
 
 Getting Started
 This is an example of how you may give instructions on setting up your project locally. Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.
@@ -18,11 +20,11 @@ Install
 Usage
 Run tests
 Deployment
-Authors
+Author
 👤 Ch Ahtesham Ul Haq
 
-GitHub: @githubhandle
-Twitter: @twitterhandle
+GitHub: @Chaudhary
+Twitter: @chaury039
 LinkedIn: https://www.linkedin.com/in/ch-ahtesham-ul-haq-b5318b152/
 
 🤝 Contributing
